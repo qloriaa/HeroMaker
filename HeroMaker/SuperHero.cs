@@ -32,7 +32,6 @@ namespace HeroMaker
 
         }
 
-
         /// <summary>
         /// Displays Superhero's attributes.
         /// (except Cape color, suit color, symbol image, and portrait image)
